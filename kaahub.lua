@@ -1,7 +1,3 @@
-
--- VOID HUB | Dark Modern v1.0
--- UI Practice Project
-
 local Players = game:GetService("Players")
 local player = Players.LocalPlayer
 
